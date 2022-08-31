@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e878934b-f628-4ada-98bc-4a88b761b9a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework1/task1/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework1/task2/ArgsReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework1/task3/ArraysPrint.java" afterDir="false" />
+    <list default="true" id="e878934b-f628-4ada-98bc-4a88b761b9a3" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/homework2/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/task4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraysPrint">
-    <configuration name="ArgsReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework1.task2.ArgsReverse" />
-      <module name="JavaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework1.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.homework2.task4.Main">
     <configuration name="ArraysPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework1.task3.ArraysPrint" />
       <module name="JavaPro" />
@@ -72,12 +55,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework1.task1.Name" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.task1.Main" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework1.task1.*" />
+          <option name="PATTERN" value="homework2.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework2.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.task2.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework2.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework2.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.task3.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework2.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework2.task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.task4.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework2.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,9 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework2.task4.Main" />
+        <item itemvalue="Application.homework2.task3.Main" />
+        <item itemvalue="Application.homework2.task2.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ArraysPrint" />
-        <item itemvalue="Application.ArgsReverse" />
-        <item itemvalue="Application.Name" />
       </list>
     </recent_temporary>
   </component>
@@ -102,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661951697663</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1661953336453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661953336453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
