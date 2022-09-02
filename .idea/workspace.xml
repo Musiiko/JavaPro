@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e878934b-f628-4ada-98bc-4a88b761b9a3" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/homework2/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework15/InfixRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework15/InfixToPostFix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework16/function/SortFuelComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework16/impl/TaxiStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework16/model/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework16/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework16/model/DreamCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework16/model/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework16/taxi/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,16 +43,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Sergey/NewJavaProject/practice"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.homework2.task4.Main">
-    <configuration name="ArraysPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework1.task3.ArraysPrint" />
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="InfixRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework15.InfixRunner" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework1.task3.*" />
+          <option name="PATTERN" value="homework15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.task1.Main" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework16.taxi.Runner" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework2.task1.*" />
+          <option name="PATTERN" value="homework16.taxi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.InfixRunner" />
         <item itemvalue="Application.homework2.task4.Main" />
         <item itemvalue="Application.homework2.task3.Main" />
         <item itemvalue="Application.homework2.task2.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ArraysPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661953336453</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1661955227910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661955227910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
