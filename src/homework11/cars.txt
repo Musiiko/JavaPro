@@ -1,0 +1,4 @@
+Truck,160,50000,MAN,white,30,30,2.6;
+DreamCar,200,80000,BMW,black,32,true;
+Bus,120,67000,Mercedes,grey,33,60;
+Truck,180,70500,Mercedes,green,35,35, 3.2;
