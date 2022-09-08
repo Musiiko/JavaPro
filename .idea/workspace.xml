@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e878934b-f628-4ada-98bc-4a88b761b9a3" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/homework11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/data/ArrayData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/data/StreamData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/model/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/model/DreamCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/model/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework11/processor/CarParkProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task1/function/CarComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task1/impl/TaxiStationName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task1/model/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task1/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task1/model/DreamCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task1/model/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task1/taxi/TaxiStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task2/singlylinkedlist/ListContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task2/singlylinkedlist/ListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task3/list/FileHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework14/task3/runner/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework17/engine/TextAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework17/runner/TextAlgorithmRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/CarProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework6/task1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework6/task1/CarProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework6/task1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework6/task2_3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +39,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Sergey/NewJavaProject/JavaPro"
+    "last_opened_file_path": "C:/Users/Sergey/IdeaProjects/HW6-1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TextAlgorithmRunner">
+  <component name="RunManager" selected="Application.homework6.task2_3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework11.Main" />
       <module name="JavaPro" />
@@ -104,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework14.task2.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.task2.Runner" />
+    <configuration name="homework6.task1.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.task1.Runner" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.task2.*" />
+          <option name="PATTERN" value="homework6.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework14.task3.runner.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.task3.runner.Runner" />
+    <configuration name="homework6.task2_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.task2_3.Main" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.task3.runner.*" />
+          <option name="PATTERN" value="homework6.task2_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework6.task2_3.Main" />
+        <item itemvalue="Application.homework6.task1.Runner" />
         <item itemvalue="Application.TextAlgorithmRunner" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.homework14.task3.runner.Runner" />
-        <item itemvalue="Application.homework14.task2.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662125501854</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1662471026224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662471026224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1662471068043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662471068043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
