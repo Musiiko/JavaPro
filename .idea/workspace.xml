@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e878934b-f628-4ada-98bc-4a88b761b9a3" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/homework6/task1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework6/task1/CarProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework6/task1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework6/task2_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7/TriangleProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,26 +42,13 @@
     "last_opened_file_path": "C:/Users/Sergey/IdeaProjects/HW6-1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.homework6.task2_3.Main">
+  <component name="RunManager" selected="Application.homework7.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework11.Main" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4.Runner" />
-      <module name="JavaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework7.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework7.Main" />
         <item itemvalue="Application.homework6.task2_3.Main" />
         <item itemvalue="Application.homework6.task1.Runner" />
         <item itemvalue="Application.TextAlgorithmRunner" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662471068043</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1662625512253</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662625512253</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
